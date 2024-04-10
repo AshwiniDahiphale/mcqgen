@@ -1,8 +1,5 @@
-huggingface_hub
+huggingface
 langchain
 streamlit
 python-dotenv
 PyPDF2
-
-
--e .
